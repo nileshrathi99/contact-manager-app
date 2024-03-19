@@ -1,0 +1,8 @@
+npm init
+npm i express
+npm i -d nodemon
+npm i dotenv
+npm i express-async-handler
+npm i mongoose
+npm i bcrypt
+npm i jsonwebtoken
